@@ -29,7 +29,7 @@ Healthcare facilities often face resource constraints, including limited availab
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/WhiteDev08/Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-Using-Advanced-Machine-Learning-Techniques.git
+    git clone https://github.com/Bhargav3704/Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-Using-Advanced-Machine-Learning-Techniques
 
     ```
 
